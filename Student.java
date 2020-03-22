@@ -3,6 +3,7 @@ class Student {
 	String firstName;
 	String lastName;
 
+	int grades[] = new grades[100];
 	//TODO constructor
 
 	//TODO seters & getters
