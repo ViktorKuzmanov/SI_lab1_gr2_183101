@@ -4,7 +4,7 @@ class Student {
 	String lastName;
 
 	int grades[] = new grades[100];
-	
+
 	//TODO constructor
 	Student(String i, String f, String l) {
 		index = i;
